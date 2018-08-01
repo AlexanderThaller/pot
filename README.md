@@ -60,6 +60,13 @@ This command will start the pot and spawn a `tcsh` shell in it.
 
 ### Get help
 
+
+üoajdfüojsdf
+sdfjpsgpojdsföpjsdf
+
+
+
+
 pot command line provides inline help:
 
 ```console
